@@ -27,4 +27,4 @@
 
 # Example
 
-![EXAMPLE]("EXAMPLE.png")
+![EXAMPLE](EXAMPLE.png)
