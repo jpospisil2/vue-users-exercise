@@ -77,7 +77,7 @@ export default {
       this.newUserInputVisible = true;
     },
     updateUserStatus({ index, active }) {
-      const { [index]: user } = this.users;
+      const { [index]: user } = this.visibleUsers;
       if (user) {
         user.active = active;
       }
